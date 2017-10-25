@@ -1,0 +1,9 @@
+1. Print Max element of a given List
+2. Print Median of a given List (Even size, Odd Size)
+3. Print the first non re-occuring element in a list
+4. Print the most re-occuring element in a list
+5. GCD
+6. Find the minimum absolute difference between the set of elements of an array
+7.Given a number and an array, code to find sum of 2 numbers in the array is equal to the given number
+8. Palindrome? Number/String
+9 List a=[1,2,3,none,none] list b= [4,5,3] output=[1,4,2,5,3,3] ? Program? 
